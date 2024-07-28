@@ -1,0 +1,52 @@
+/*div{
+    height: 600px;
+    width: 75px;
+    background-color: pink;
+    border-width: 2px;
+    border-style: solid;
+    border-color: rgb(255, 0, 0);
+    border: 2px solid red;
+    border-radius: 0%;
+    text-align: center;
+    padding-left: 25px 25px 25px 25px ;
+    margin: 50px 50px 50px 50px;
+}
+div div{
+    height: 50px;
+    width: 55px;
+    background-color: rgb(73, 25, 156);
+    padding-left: 50px;
+    border-radius: 50%;
+}
+h1{
+    width: 200px;
+    height: 50px;
+    background-color: aquamarine;
+    border-style: dashed;
+    border-color: black;
+    text-align: center;
+}*/
+*{
+    padding: 0;
+    margin: 0;
+}
+#navbar {
+    height: 60px;
+    background-color: black;
+    color: white;
+    
+}
+a {
+    margin-right: 180px;
+    margin-left: 20px;
+    margin-top: 20px;
+    color: white;
+
+}
+#logo{
+    color: blueviolet;
+    font-size: 25px;
+}
+button{
+    background-color: aqua;
+}
